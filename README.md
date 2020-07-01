@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ## Demo my Todo List app
 
-See demo: <a href="#" target="_blank">My Todo List app</a>
+See demo: <a href="https://my-todo-list2-app.netlify.app/" target="_blank">My Todo List app</a>
